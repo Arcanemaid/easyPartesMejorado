@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "981113682755",
+    "firebase_url": "https://easypartes-9242b.firebaseio.com",
+    "project_id": "easypartes-9242b",
+    "storage_bucket": "easypartes-9242b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981113682755:android:31144cb94f483dc48dcdf6",
+        "android_client_info": {
+          "package_name": "com.example.flutter_login_ui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981113682755-mafk0tifk8l7ei4nj4lhd0q5a15op8o9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1MogmfMVSXDLDTEwLNVP38jfd4UG4hn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981113682755-mafk0tifk8l7ei4nj4lhd0q5a15op8o9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
